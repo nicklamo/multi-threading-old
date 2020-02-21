@@ -1,6 +1,6 @@
 ## Nicholas La Monica CSCI3753 Operating Systems
 
-Multi-threading with the Pthreads API in C. This code looks up IP addresses based on
+Multi-threading with the Pthreads API in C. This code looks up multiple IP addresses asynchronously based on there domain names.
 
 ### How to run the program:
 1. Compile the code:
